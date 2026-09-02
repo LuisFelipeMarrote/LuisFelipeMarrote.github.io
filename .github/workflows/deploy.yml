@@ -18,7 +18,7 @@ jobs:
   deploy:
     environment:
       name: github-pages
-      url: https://luisfelipemarrote.github.i
+      url: https://luisfelipemarrote.github.io
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
